@@ -1,8 +1,0 @@
-{
-	"platform":{
-		"category": "Arcade",
-		"name": "Extermination",
-		"year": 1987,
-		"manufacturer": "Taito"
-	}
-}
